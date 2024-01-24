@@ -70,7 +70,7 @@ class Graph {
   
   // Example usage:
   
-  const roadNetwork = new Graph();
+  const roadNetwork = new Graph()
   
   roadNetwork.addVertex('Beach')
   roadNetwork.addVertex('Metro')
