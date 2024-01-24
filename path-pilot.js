@@ -1,7 +1,6 @@
 const readline = require('readline');
 console.log("PATH PILOT v0.1 (A* Search)")
 
-
 class Graph {
     constructor() {
       this.vertices = new Map(); // Map to store vertices and their adjacent vertices with distances
